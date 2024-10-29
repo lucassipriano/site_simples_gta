@@ -1,6 +1,6 @@
 # GTA VI Fan Website
 
-Um site desenvolvido com HTML e CSS para reunir informações e curiosidades sobre o jogo Grand Theft Auto IV.
+Um site desenvolvido com HTML e CSS para reunir informações e curiosidades sobre o jogo Grand Theft Auto VI.
 
 ## 📝 Sobre o Projeto
 

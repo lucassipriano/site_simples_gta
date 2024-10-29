@@ -17,5 +17,5 @@ Este projeto é uma homenagem de fã para fã e não possui afiliação com a Ro
 
 ## 💡 Créditos e Referências
 
-Design e inspiração visual baseados no jogo Grand Theft Auto IV da Rockstar Games.
+Design e inspiração visual baseados no jogo Grand Theft Auto VI da Rockstar Games.
 Dados e informações sobre GTA VI foram coletados de fontes públicas e da comunidade de fãs.
